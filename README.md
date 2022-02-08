@@ -1,8 +1,6 @@
 # XKCD COMIC EMAIL SUBSCRIBER
 
-This is a php based web application that sends a copy of xkcd comic to every subscriber in a fixed interval of time. It was developed for a PHP programming challenge as a part of [rtCamp's Campus hiring](https://learn.rtcamp.com/campus/).
-
-#### DEMO: https://xkcd-subscriber.000webhostapp.com
+#### DEMO: https://nailless-mount.000webhostapp.com/
 
 
  A short description of all the file in repo is as follows:
